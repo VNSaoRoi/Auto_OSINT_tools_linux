@@ -2,4 +2,4 @@
 
 This tools help you auto OSINT research SUBDOMAIN by tools in linux.
 
-You can edit what tools will use by edit source code, make sure you have binary of them in your linux machine.
+You can edit what tools will use by edit source code, make sure you have theHarvester in your linux machine.
